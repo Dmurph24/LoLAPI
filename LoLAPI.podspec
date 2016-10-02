@@ -51,5 +51,5 @@ Pod::Spec.new do |s|
 
   # Dependencies
 
-  s.dependency 'RestKit', '~> 0.20.3'
+  s.dependency 'RestKit', '~> 0.27.0'
 end
